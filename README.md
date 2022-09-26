@@ -11,7 +11,7 @@ o bien usando
 npm install
 ```
 
-Para probar y levantar el proeycto de forma local usar:
+Para probar y levantar el proyecto de forma local usar:
 ```
 yarn dev
 ```
